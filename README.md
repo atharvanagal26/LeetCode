@@ -54,4 +54,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/atharvanagal26/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/atharvanagal26/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/atharvanagal26/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/atharvanagal26/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
