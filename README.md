@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/atharvanagal26/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/atharvanagal26/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/atharvanagal26/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,10 +28,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/atharvanagal26/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/atharvanagal26/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/atharvanagal26/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/atharvanagal26/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/atharvanagal26/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/atharvanagal26/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/atharvanagal26/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/atharvanagal26/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +93,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/atharvanagal26/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/atharvanagal26/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/atharvanagal26/LeetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 <!---LeetCode Topics End-->
