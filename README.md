@@ -69,4 +69,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/atharvanagal26/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/atharvanagal26/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/atharvanagal26/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/atharvanagal26/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/atharvanagal26/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/atharvanagal26/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/atharvanagal26/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
